@@ -9,5 +9,7 @@
 <body>
     <h1>Bismillah</h1>
     <p>Paragraf</p>
+    <li>satu</li>
+    <li>dua</li>
 </body>
 </html>
